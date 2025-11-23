@@ -57,7 +57,7 @@ nvisust/
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Dee0216/Nvisust.git
    cd nvisust
    ```
 
@@ -288,4 +288,5 @@ Demo videos are available in youtube
 ## License
 
 This project was created for the AI/ML & Automation Internship Selection Challenge.
+
 
