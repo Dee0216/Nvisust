@@ -268,9 +268,9 @@ See "Prompting Strategy" section above. Using **Few-Shot Instruction Prompting**
 
 ## Demo
 
-Demo videos and screenshots are available in the repository:
-- `join demonstration.mp4` - Shows JOIN queries working
-- `self correction loop.mp4` - Demonstrates self-correction in action
+Demo videos are available in youtube
+- https://youtu.be/UZP-NMw__MA - Shows JOIN queries working
+- https://youtu.be/ZBYXpnTXZVc - Demonstrates self-correction in action
 
 ## Limitations
 
